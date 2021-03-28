@@ -1,6 +1,7 @@
 # CodeingNotebook
 
- [![](https://badgen.net/badge/RainBowAurora/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB?icon=sourcegraph&color=4ab8a1)](https://gitbook-1.gitbook.io/cplusplus-summary/) [![](https://badgen.net/github/stars/RainBowAurora/CodeingNotebook?icon=github&color=4ab8a1)](https://github.com/RainBowAurora/CodeingNotebook) [![](https://badgen.net/github/forks/RainBowAurora/CodeingNotebook?icon=github&color=4ab8a1)](https://github.com/RainBowAurora/CodeingNotebook) 
+ [![](https://badgen.net/badge/RainBowAurora/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB?icon=sourcegraph&color=4ab8a1)](https://gitbook-1.gitbook.io/cplusplus-summary/) [![](https://badgen.net/github/stars/RainBowAurora/CodeNote?icon=github&color=4ab8a1)](https://github.com/RainBowAurora/CodeNote) [![](https://badgen.net/github/forks/RainBowAurora/CodeNote?icon=github&color=4ab8a1)](https://github.com/RainBowAurora/CodeNote)  
+
 
 | C++基础知识 | 数据结构及算法 | 设计模式 |
 | :--- | :--- | :--- |
