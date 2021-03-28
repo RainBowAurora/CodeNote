@@ -4,7 +4,7 @@
 
 ## 目录
 
-### :coffee: [C++基础知识](https://github.com/RainBowAurora/CodeingNotebook/tree/cplusplus)
+### :coffee: [C++基础知识](https://github.com/RainBowAurora/CodeNote/tree/cplusplus)
 
 [01-编译相关](https://github.com/RainBowAurora/CodeNote/tree/cplusplus/01-bian-yi-nei-cun-xiang-guan)
 
@@ -20,7 +20,7 @@
 
 
 
-### :pencil2: [数据结构及算法](https://github.com/RainBowAurora/CodeingNotebook/tree/algorithm)
+### :pencil2: [数据结构及算法](https://github.com/RainBowAurora/CodeNote/tree/algorithm)
 
 [01-数据结构](https://github.com/RainBowAurora/CodeNote/blob/algorithm/shu-ju-jie-gou.md)
 
@@ -28,7 +28,7 @@
 
 
 
-### :bulb: [设计模式](https://github.com/RainBowAurora/CodeingNotebook/tree/design_patterns)
+### :bulb: [设计模式](https://github.com/RainBowAurora/CodeNote/tree/design_patterns)
 
 [01-创建型模式](https://github.com/RainBowAurora/CodeNote/blob/design_patterns/01-chuang-jian-xing-mo-shi)
 
