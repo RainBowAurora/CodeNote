@@ -6,6 +6,7 @@
 * [选择排序 O\(n^2\)](xuan-ze-pai-xu.md)
 * [插入排序 O\(n^2\)](cha-ru-pai-xu.md)
 * [快速排序 O\(nlogn\)](kuai-su-pai-xu.md)
+* [堆排序O\(nlogn\)](dui-pai-xu.md)
 
 
 
