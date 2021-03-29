@@ -48,6 +48,7 @@ public:
         }
     }
     
+    //从最后一个非也子节点开始构造堆
     template<typename CompareType=std::less<typename std::iterator_traits<Iterator>::value_type>>
     void BuildHeap(CompareType compare=CompareType()){
         for(int i = ((heap_size_>>1)-1); i >= 0; i--){  // (n/2 -1)
@@ -78,5 +79,16 @@ private:
     std::size_t heap_size_ = {0};
     Iterator root_;
 };
+
+/* 调用方法: 
+    int int array[11]= {4, 2, 5, 3, 8, 1, 6, 7, 9, 11, 10};
+    std::vector<int> vec = {4, 2, 5, 3, 8, 1, 6, 7, 9, 11, 10};
+    
+    HeapSort<std::vector<int>::iterator> vec_heap_sort;
+    HeapSort<int*> array_heap_sort;
+    
+    vec_heap_sort(vec.begin(), vec.end(), [](int a, int b){ return a > b;}); //使用lambda自定义比较函数递减排序
+    array_heap_sort(array, array+11); //默认使用std::less进行比较递增排序
+*/
 ```
 
