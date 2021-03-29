@@ -16,6 +16,7 @@
 * [选择排序 O\(n^2\)](pai-xu-suan-fa/xuan-ze-pai-xu.md)
 * [插入排序 O\(n^2\)](pai-xu-suan-fa/cha-ru-pai-xu.md)
 * [快速排序 O\(nlogn\)](pai-xu-suan-fa/kuai-su-pai-xu.md)
+* [堆排序O\(nlogn\)](pai-xu-suan-fa/dui-pai-xu.md)
 
 
 
