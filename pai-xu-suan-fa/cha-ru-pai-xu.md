@@ -8,7 +8,7 @@ description: 时间复杂度O(n^2)
 
 插入排序的思想非常简单，生活中有一个非常常见的场景：在打扑克牌时，我们一边抓牌一边给扑克牌排序，每次摸一张牌，就将它插入手上已有的牌中合适的位置，逐渐完成整个排序。
 
-```text
+```cpp
 template<typename Iterator,typename CompareType=std::less<typename std::iterator_traits<Iterator>::value_type>>
 void InsertSort(const Iterator begin, const Iterator end, CompareType compare = CompareType())
 {

@@ -8,4 +8,5 @@
   * [插入排序](pai-xu-suan-fa/cha-ru-pai-xu.md)
   * [快速排序](pai-xu-suan-fa/kuai-su-pai-xu.md)
   * [堆排序](pai-xu-suan-fa/dui-pai-xu.md)
+  * [希尔排序](pai-xu-suan-fa/xi-er-pai-xu.md)
 

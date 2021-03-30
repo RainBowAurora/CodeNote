@@ -7,6 +7,7 @@
 * [插入排序 O\(n^2\)](cha-ru-pai-xu.md)
 * [快速排序 O\(nlogn\)](kuai-su-pai-xu.md)
 * [堆排序O\(nlogn\)](dui-pai-xu.md)
+* [希尔排序O\(n\)~O\(n^2\)](xi-er-pai-xu.md)
 
 
 
