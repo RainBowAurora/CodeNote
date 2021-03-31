@@ -15,6 +15,8 @@ description: 时间复杂度O(nlogn)
 * 我们可以把数组不断地拆成两份，直到只剩下一个数字时，这一个数字组成的数组我们就可以认为它是有序的。
 * 通过合并两个有序的列表的思路，通过回溯的方法将之前拆分的两个数组进行排序，直到整个数组排序完成。
 
+![](../.gitbook/assets/image%20%2823%29.png)
+
 ```cpp
 template<typename Iterator, typename CompareType=std::less<typename std::iterator_traits<Iterator>::value_tpye>>
 void Merge(const Iterator begin, const Iterator end, const Iterator middle, CompareType compare= CompareType())
