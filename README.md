@@ -18,6 +18,7 @@
 * [快速排序 O\(nlogn\)](pai-xu-suan-fa/kuai-su-pai-xu.md)
 * [堆排序O\(nlogn\)](pai-xu-suan-fa/dui-pai-xu.md)
 * [希尔排序O\(n\)~O\(n^2\)](pai-xu-suan-fa/xi-er-pai-xu.md)
+* [归并排序O\(nlogn\)](pai-xu-suan-fa/gui-bing-pai-xu.md)
 
 
 

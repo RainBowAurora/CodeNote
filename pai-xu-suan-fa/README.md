@@ -8,6 +8,7 @@
 * [快速排序 O\(nlogn\)](kuai-su-pai-xu.md)
 * [堆排序O\(nlogn\)](dui-pai-xu.md)
 * [希尔排序O\(n\)~O\(n^2\)](xi-er-pai-xu.md)
+* [归并排序O\(nlogn\)](gui-bing-pai-xu.md)
 
 
 
