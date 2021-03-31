@@ -17,17 +17,16 @@ description: '时间复杂度O(n^), 稳定'
 ```cpp
 template<typename Iterator>
 void BubbleSort(const Iterator begin, const Iterator end)
-{                
-    //迭代器指向对象的值类型                                                                                                                                                                                                                        
-    using value_type = typename std::iterator_traits<Iterator>::value_type;
+{                                                                                                                                                                                                                                  
+    // using value_type = typename std::iterator_traits<Iterator>::value_type;   //迭代器指向对象的值类型      
     
     auto size=std::distance(begin, end);
     if(size <= 1) return;
     
-    for(auto current = begin; current != end - 1; current++){ 
-        for(auto left = begin; left != current; left++){
-            if(*left >  *(left+1)){
-                value_type temp_value = *left;
+    for(int i = 0; i < size - 1; i++){ 
+        for(auto left = begin; left != begin + (size - i - 1); left++){
+            if(*left > *(left+1)){
+                auto temp_value = *left;
                 *left = *(left+1);
                 *(left+1) = temp_value;
             }
