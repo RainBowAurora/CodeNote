@@ -7,7 +7,7 @@
 * [ ] 数组
 * [ ] 字符串
 * [ ] 链表
-* [x] [树](shu-ju-jie-gou/shu/)
+* [x] [树](shu-ju-jie-gou/shu-1/shu/)
 * [ ] 图
 
 [02-排序算法](pai-xu-suan-fa/)
