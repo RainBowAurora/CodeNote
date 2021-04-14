@@ -5,7 +5,7 @@
 [01-创建者模式](01-chuang-jian-xing-mo-shi/)
 
 * [ ] [工厂方法](01-chuang-jian-xing-mo-shi/gong-chang-fang-fa.md)
-* [ ] [抽象工厂](01-chuang-jian-xing-mo-shi/chou-xiang-gong-chang.md)
+* [x] [抽象工厂](01-chuang-jian-xing-mo-shi/chou-xiang-gong-chang.md)
 * [ ] [生成器模式](01-chuang-jian-xing-mo-shi/sheng-cheng-qi-mo-shi.md)
 * [ ] [原型模式](01-chuang-jian-xing-mo-shi/yuan-xing-mo-shi.md)
 * [ ] [单例模式](01-chuang-jian-xing-mo-shi/dan-li-mo-shi.md)
