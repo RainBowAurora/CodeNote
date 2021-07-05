@@ -47,6 +47,7 @@
   * [进程与线程](06-duo-xian-cheng-xiang-guan/jin-cheng-yu-xian-cheng.md)
   * [线程之间的同步方法](06-duo-xian-cheng-xiang-guan/xian-cheng-zhi-jian-de-tong-bu-fang-fa.md)
   * [死锁](06-duo-xian-cheng-xiang-guan/si-suo.md)
+  * [自旋锁](06-duo-xian-cheng-xiang-guan/zi-xuan-suo.md)
   * [线程安全单例](06-duo-xian-cheng-xiang-guan/xian-cheng-an-quan-dan-li.md)
   * [无锁化编程（CAS）](06-duo-xian-cheng-xiang-guan/wu-suo-hua-bian-cheng.md)
 
