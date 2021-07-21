@@ -61,7 +61,11 @@
 * [线程安全单例](06-duo-xian-cheng-xiang-guan/xian-cheng-an-quan-dan-li.md)
 * [无锁化编程（CAS）](06-duo-xian-cheng-xiang-guan/wu-suo-hua-bian-cheng.md)
 
+[07-c++2.0](07-c++2.0/)
 
+* [auto和decltype类型自动推导](07-c++2.0/auto-he-decltype-lei-xing-zi-dong-tui-dao.md)
+* [右值引用](07-c++2.0/you-zhi-yin-yong.md)
+* [初始化列表](07-c++2.0/chu-shi-hua-lie-biao.md)
 
 Reference:
 
