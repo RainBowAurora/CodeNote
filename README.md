@@ -18,7 +18,7 @@
 
 [06-多线程相关](https://github.com/RainBowAurora/CodeNote/blob/cplusplus/06-duo-xian-cheng-xiang-guan)
 
-07-c++2.0
+[07-c++2.0](https://github.com/RainBowAurora/CodeNote/tree/cplusplus/07-c%2B%2B2.0)
 
 
 
